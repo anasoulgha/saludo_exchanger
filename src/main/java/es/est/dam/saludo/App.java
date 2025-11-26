@@ -12,6 +12,5 @@ public class App {
         hilo1.start();
         hilo2.start();
 
-
-}
+    }
 }
